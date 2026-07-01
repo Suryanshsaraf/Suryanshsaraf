@@ -106,6 +106,9 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
   <a href="https://github.com/Suryanshsaraf">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/suryansh-saraf-5aa011293/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:124260850+Suryanshsaraf@users.noreply.github.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
