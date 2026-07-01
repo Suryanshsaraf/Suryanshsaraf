@@ -88,15 +88,15 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryanshsaraf&show_icons=true&theme=tokyonight&count_private=true" alt="Suryansh's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=suryanshsaraf&show_icons=true&theme=tokyonight&count_private=true" alt="Suryansh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshsaraf&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=suryanshsaraf&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
   <a href="https://www.linkedin.com/in/suryansh-saraf-5aa011293/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:124260850+Suryanshsaraf@users.noreply.github.com">
+  <a href="mailto:suryanshsaraf8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
