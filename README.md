@@ -19,6 +19,7 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 ## 🚀 Pushed Repositories & Featured Projects
 
 ### 🧠 Artificial Intelligence & Deep Learning
+*   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽🤖 AI-Powered Sports Intelligence Platform using YOLOv11 & ByteTrack player/ball tracking, perspective homography coordinate mapping, and evidence-grounded ChromaDB RAG conversational engine with video seeking.
 *   **[Red-Traffic-Light-Violation](https://github.com/Suryanshsaraf/Red-Traffic-Light-Violation-main)**: 🚗🚦 AI-powered traffic enforcement system using YOLOv10 and OpenCV to detect and log red-light violations in real-time.
 *   **[RAG-with-RBAC-GuardRails-and-Monitoring](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Production-grade Retrieval-Augmented Generation (RAG) system with department-level access controls and guardrails.
 *   **[BrokeButThriving](https://github.com/Suryanshsaraf/BrokeButThriving)**: 📈 Deep Learning behavioral finance platform analyzing financial decisions.
