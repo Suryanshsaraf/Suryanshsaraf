@@ -1,6 +1,6 @@
 # Hey there! I'm Suryansh Saraf 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=Software+Engineer;ML+%2F+Deep+Learning+Dev;BI+%2F+Data+Analytics+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=Aspiring+AI+%26+Data+Science+Engineer;ML+%2F+Deep+Learning+Dev;BI+%2F+Data+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ## ⚡ About Me
-I am a passionate **Software Engineer, Machine Learning/Deep Learning Developer, and Data Analyst** who loves building intelligent, production-grade applications and turning raw data into interactive insights. My work spans from **computer vision and LLM-powered RAG systems** to **enterprise real-time microservices** and **stunning BI dashboards**.
+I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intelligence & Data Science (7th Semester)**. I am passionate about building intelligent systems, training deep learning models, and exploring real-world data telemetry. My interests span across **computer vision, natural language processing, LLM-powered RAG systems, and interactive Business Intelligence (BI)**.
 
 ---
 
