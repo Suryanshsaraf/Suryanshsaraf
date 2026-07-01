@@ -12,7 +12,7 @@
 ---
 
 ## ⚡ About Me
-I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intelligence & Data Science (7th Semester)**. I am passionate about building intelligent systems, training deep learning models, and exploring real-world data telemetry. My interests span across **computer vision, natural language processing, LLM-powered RAG systems, and interactive Business Intelligence (BI)**.
+I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intelligence & Data Science (7th Semester)** at **NMIMS University, Navi Mumbai**. I am passionate about building intelligent systems, training deep learning models, and exploring real-world data telemetry. My interests span across **computer vision, natural language processing, LLM-powered RAG systems, and interactive Business Intelligence (BI)**.
 
 ---
 
