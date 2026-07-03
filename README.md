@@ -7,6 +7,10 @@
   <a href="https://github.com/Suryanshsaraf">
     <img src="https://img.shields.io/github/followers/Suryanshsaraf?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Suryanshsaraf&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
 </p>
 
 ---
