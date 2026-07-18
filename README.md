@@ -11,6 +11,10 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Suryanshsaraf&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://suryansh-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00D2FF?style=flat-square&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
