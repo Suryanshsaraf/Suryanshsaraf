@@ -50,7 +50,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 *   **[VJTI Research — HSRP](https://github.com/Suryanshsaraf/HSRPProject)**: 🏫 License plate detection research at **VJTI Mumbai** — custom YOLOv8 models + OpenCV real-time inference.
 
 ### 📊 Business Intelligence & Telemetry
-*   **[InsightFlow-BI](https://github.com/Suryanshsaraf/InsightFlow-BI)**: 💡 Next-generation AI-powered Business Intelligence platform transforming CSV files into interactive dashboards with automated insights, SQL querying, and KPI generation.
+*   **[InsightFlow-BI](https://github.com/Suryanshsaraf/InsightFlow-BI)**: 💡 AI-powered BI platform — CSV to interactive dashboards with auto-generated KPIs and natural language SQL.
 *   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time, event-driven microservices architecture built for high-frequency stock telemetry processing using Apache Kafka and Redis.
 
 ### ⚙️ MLOps & DevOps Infrastructure
