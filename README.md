@@ -92,15 +92,15 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryanshsaraf&show_icons=true&theme=tokyonight&count_private=true" alt="Suryansh's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Suryanshsaraf&show_icons=true&theme=tokyonight&count_private=true" alt="Suryansh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suryanshsaraf&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Suryanshsaraf&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
