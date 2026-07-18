@@ -79,6 +79,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
   <tr>
