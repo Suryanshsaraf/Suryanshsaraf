@@ -1,4 +1,4 @@
-# Hey there! I'm Suryansh Saraf 👋
+# Hey, I'm Suryansh Saraf 👋🏻
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=Aspiring+AI+%26+Data+Science+Engineer;ML+%2F+Deep+Learning+Dev;BI+%2F+Data+Analytics+Enthusiast" alt="Typing SVG" />
 </p>
