@@ -1,6 +1,6 @@
 # Hey, I'm Suryansh Saraf 👋🏻
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=Aspiring+AI+%26+Data+Science+Engineer;ML+%2F+Deep+Learning+Dev;BI+%2F+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=AI+%26+Data+Science+Engineer;Deep+Learning+%2F+Computer+Vision;LLM+Agent+Builder;Real-Time+Data+Pipelines;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
