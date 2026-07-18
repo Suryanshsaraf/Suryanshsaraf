@@ -144,6 +144,10 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
   <sub>⚡ <i>"Ship it, measure it, improve it — that's the only loop that matters."</i></sub>
 </p>
 
