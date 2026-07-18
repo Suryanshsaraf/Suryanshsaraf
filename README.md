@@ -43,7 +43,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 ---
 
 <!-- SECTION: FEATURED PROJECTS -->
-## 🚀 Featured Projects & Research
+## 🚀 What I've Built
 
 ### 🧠 Generative AI & Deep Learning
 *   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽ Real-time sports analytics — YOLOv11 player tracking, pitch homography, and ChromaDB RAG video search engine.
