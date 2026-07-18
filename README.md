@@ -90,7 +90,7 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryanshsaraf&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
