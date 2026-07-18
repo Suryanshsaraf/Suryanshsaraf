@@ -44,7 +44,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 ## 🚀 Featured Projects & Research
 
 ### 🧠 Generative AI & Deep Learning
-*   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽🤖 AI-Powered Sports Analytics Platform using YOLOv11 & ByteTrack player/ball tracking, perspective homography coordinate mapping, and evidence-grounded ChromaDB RAG conversational engine with video seeking.
+*   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽ Real-time sports analytics — YOLOv11 player tracking, pitch homography, and ChromaDB RAG video search engine.
 *   **[BrokeButThriving](https://github.com/Suryanshsaraf/BrokeButThriving)**: 📈 Deep Learning behavioral finance platform analyzing financial decisions and executing personalized "what-if" budget simulations.
 *   **[RAG-with-RBAC-GuardRails-and-Monitoring](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Production-grade Retrieval-Augmented Generation (RAG) system with department-level access controls, safety guardrails, and Prometheus monitoring metrics.
 *   **[VJTI Research (HSRP)](https://github.com/Suryanshsaraf/HSRPProject)**: 🏫 Computer Vision research project completed during an internship at **VJTI Mumbai** centering on YOLOv8 & OpenCV plate recognition pipelines.
