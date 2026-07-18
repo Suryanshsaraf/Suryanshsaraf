@@ -70,6 +70,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <h3>🧠 AI / ML / CV</h3>
