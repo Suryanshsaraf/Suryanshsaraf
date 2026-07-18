@@ -31,6 +31,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 
 ---
 
+<!-- SECTION: CURRENTLY WORKING ON -->
 ## 🔭 What I'm Working On
 
 ```text
