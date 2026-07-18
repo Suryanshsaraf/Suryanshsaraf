@@ -51,7 +51,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 *   **[RAG with RBAC & Guardrails](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Enterprise RAG pipeline — JWT access control, NeMo guardrails, and Prometheus/Grafana observability.
 *   **[VJTI Research — HSRP](https://github.com/Suryanshsaraf/HSRPProject)**: 🏫 License plate detection research at **VJTI Mumbai** — custom YOLOv8 models + OpenCV real-time inference.
 
-### 📊 Data Engineering, BI & DevOps
+### 📊 Data Pipelines, BI & Infrastructure
 *   **[InsightFlow-BI](https://github.com/Suryanshsaraf/InsightFlow-BI)**: 💡 AI-powered BI platform — CSV to interactive dashboards with auto-generated KPIs and natural language SQL.
 *   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time stock telemetry — Kafka ingestion, Redis caching, Dockerized microservices with Grafana dashboards.
 *   **[DEVOPS-APDD](https://github.com/Suryanshsaraf/DEVOPS-APDD)**: 🐳 Heart Disease Prediction API — full Docker + GitHub Actions CI/CD pipeline with automated testing.
