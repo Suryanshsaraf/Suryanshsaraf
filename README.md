@@ -31,6 +31,16 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 
 ---
 
+## 🔭 What I'm Working On
+
+```text
+🚧  Building a multi-agent financial copilot with tool-calling LLMs (BrokeButThriving v2)
+📡  Designing event-driven stock telemetry pipelines with Kafka + Redis + WebSockets
+🔐  Hardening RAG systems with RBAC, NeMo Guardrails, and Prometheus observability
+```
+
+---
+
 ## 🚀 Featured Projects & Research
 
 ### 🧠 Generative AI & Deep Learning
