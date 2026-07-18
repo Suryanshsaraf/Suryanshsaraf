@@ -45,7 +45,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 <!-- SECTION: FEATURED PROJECTS -->
 ## 🚀 What I've Built
 
-### 🧠 Generative AI & Deep Learning
+### 🧠 AI / Deep Learning / Agents
 *   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽ Real-time sports analytics — YOLOv11 player tracking, pitch homography, and ChromaDB RAG video search engine.
 *   **[BrokeButThriving](https://github.com/Suryanshsaraf/BrokeButThriving)**: 💸 Multi-model finance copilot — LSTM + Gradient Boosting predictions with a Llama 3 conversational agent.
 *   **[RAG with RBAC & Guardrails](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Enterprise RAG pipeline — JWT access control, NeMo guardrails, and Prometheus/Grafana observability.
