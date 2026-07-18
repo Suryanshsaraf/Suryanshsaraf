@@ -20,30 +20,20 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 
 ---
 
-## 🚀 Pushed Repositories & Featured Projects
+## 🚀 Featured Projects & Research
 
-### 🧠 Artificial Intelligence & Deep Learning
-*   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽🤖 AI-Powered Sports Intelligence Platform using YOLOv11 & ByteTrack player/ball tracking, perspective homography coordinate mapping, and evidence-grounded ChromaDB RAG conversational engine with video seeking.
-*   **[Red-Traffic-Light-Violation](https://github.com/Suryanshsaraf/Red-Traffic-Light-Violation-main)**: 🚗🚦 AI-powered traffic enforcement system using YOLOv10 and OpenCV to detect and log red-light violations in real-time.
-*   **[RAG-with-RBAC-GuardRails-and-Monitoring](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Production-grade Retrieval-Augmented Generation (RAG) system with department-level access controls and guardrails.
-*   **[BrokeButThriving](https://github.com/Suryanshsaraf/BrokeButThriving)**: 📈 Deep Learning behavioral finance platform analyzing financial decisions.
-*   **[LicensePlateDetectionusingYoloV8](https://github.com/Suryanshsaraf/LicensePlateDetectionusingYoloV8)**: 🪪 Highly accurate license plate detection powered by YOLOv8 and custom OCR pipelines.
-*   **[AIGBFSMODEL](https://github.com/Suryanshsaraf/AIGBFSMODEL)**: 🤖 Search-based AI model optimizing Greedy Best-First Search algorithms.
+### 🧠 Generative AI & Deep Learning
+*   **[VisionPlay AI](https://github.com/Suryanshsaraf/visionplay-ai)**: ⚽🤖 AI-Powered Sports Analytics Platform using YOLOv11 & ByteTrack player/ball tracking, perspective homography coordinate mapping, and evidence-grounded ChromaDB RAG conversational engine with video seeking.
+*   **[BrokeButThriving](https://github.com/Suryanshsaraf/BrokeButThriving)**: 📈 Deep Learning behavioral finance platform analyzing financial decisions and executing personalized "what-if" budget simulations.
+*   **[RAG-with-RBAC-GuardRails-and-Monitoring](https://github.com/Suryanshsaraf/RAG-with-RBAC-GuardRails-and-Monitoring)**: 🔒 Production-grade Retrieval-Augmented Generation (RAG) system with department-level access controls, safety guardrails, and Prometheus monitoring metrics.
+*   **[VJTI Research (HSRP)](https://github.com/Suryanshsaraf/HSRPProject)**: 🏫 Computer Vision research project completed during an internship at **VJTI Mumbai** centering on YOLOv8 & OpenCV plate recognition pipelines.
 
-### 📊 Business Intelligence & Data Analytics
+### 📊 Business Intelligence & Telemetry
 *   **[InsightFlow-BI](https://github.com/Suryanshsaraf/InsightFlow-BI)**: 💡 Next-generation AI-powered Business Intelligence platform transforming CSV files into interactive dashboards with automated insights, SQL querying, and KPI generation.
-*   **[spotify-top50-powerbi-dashboard](https://github.com/Suryanshsaraf/spotify-top50-powerbi-dashboard)**: 🎵 Dynamic, visually stunning Power BI dashboard exploring global music trends.
-*   **[Data-Analysis-Dashboard](https://github.com/Suryanshsaraf/Data-Analysis-Dashboard)**: 📉 Interactive analysis dashboard built using Jupyter Notebooks and visualization libraries.
-*   **[gdp-dashboard](https://github.com/Suryanshsaraf/gdp-dashboard)**: 🌍 Dynamic dashboard visualization mapping GDP trends across regions.
+*   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time, event-driven microservices architecture built for high-frequency stock telemetry processing using Apache Kafka and Redis.
 
-### ⚙️ Enterprise Systems & DevOps
-*   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time, event-driven microservices architecture built for high-frequency stock telemetry processing.
+### ⚙️ MLOps & DevOps Infrastructure
 *   **[DEVOPS-APDD](https://github.com/Suryanshsaraf/DEVOPS-APDD)**: 🐳 Production-grade ML system featuring a Heart Disease Prediction API with a complete Docker and GitHub Actions CI/CD pipeline.
-*   **[HSRPProject](https://github.com/Suryanshsaraf/HSRPProject)**: 🏫 Python-based research project completed during a 2-month research internship at **VJTI Mumbai**.
-
-### 📱 Mobile & Systems Engineering
-*   **[SmartBite-Android](https://github.com/Suryanshsaraf/SmartBite-Android)**: 🍔 Native food delivery application built using Java and SQLite.
-*   **[processscheduler](https://github.com/Suryanshsaraf/processscheduler)**: 💻 Custom Python implementation simulating CPU scheduling algorithms.
 
 ---
 
@@ -100,7 +90,7 @@ I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intel
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Suryanshsaraf&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
