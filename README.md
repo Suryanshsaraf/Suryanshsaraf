@@ -129,5 +129,9 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <sub>⚡ <i>"Ship it, measure it, improve it — that's the only loop that matters."</i></sub>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ from Mumbai, India</sub>
 </p>
