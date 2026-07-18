@@ -105,6 +105,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 
 ---
 
+<!-- SECTION: GITHUB METRICS -->
 ## 📈 GitHub Metrics
 
 <p align="center">
