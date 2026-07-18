@@ -20,7 +20,14 @@
 ---
 
 ## ⚡ About Me
-I am an **aspiring engineer** currently pursuing my **B.Tech in Artificial Intelligence & Data Science (7th Semester)** at **NMIMS University, Navi Mumbai**. I am passionate about building intelligent systems, training deep learning models, and exploring real-world data telemetry. My interests span across **computer vision, natural language processing, LLM-powered RAG systems, and interactive Business Intelligence (BI)**.
+
+Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem) at **NMIMS University, Navi Mumbai** — focused on shipping production-grade intelligent systems, not just notebooks.
+
+- 🔭 **Currently building:** RAG agents with guardrails & real-time telemetry pipelines
+- 🧠 **Core interests:** Computer Vision · NLP · LLM-powered agents · Event-driven architectures
+- 🏫 **Research:** Former CV Research Intern at **VJTI Mumbai** (YOLOv8 plate recognition)
+- ⚡ **Leadership:** Co-Head of **Infinix AI&ML Club**, NMIMS | Ex-Microsoft Learn Student Ambassador
+- 🎯 **Philosophy:** If it doesn't run in production, it's just a demo
 
 ---
 
