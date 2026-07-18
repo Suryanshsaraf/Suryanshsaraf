@@ -28,6 +28,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 - 🏫 **Research:** Former CV Research Intern at **VJTI Mumbai** (YOLOv8 plate recognition)
 - ⚡ **Leadership:** Co-Head of **Infinix AI&ML Club**, NMIMS | Ex-Microsoft Learn Student Ambassador
 - 🎯 **Philosophy:** If it doesn't run in production, it's just a demo
+- ☕ **Fun fact:** I mass-produce commits before breakfast
 
 ---
 
