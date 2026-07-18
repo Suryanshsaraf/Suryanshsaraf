@@ -51,7 +51,7 @@ Building things that think. I'm a **B.Tech AI & Data Science** student (7th Sem)
 
 ### 📊 Business Intelligence & Telemetry
 *   **[InsightFlow-BI](https://github.com/Suryanshsaraf/InsightFlow-BI)**: 💡 AI-powered BI platform — CSV to interactive dashboards with auto-generated KPIs and natural language SQL.
-*   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time, event-driven microservices architecture built for high-frequency stock telemetry processing using Apache Kafka and Redis.
+*   **[market-telemetry-ai](https://github.com/Suryanshsaraf/market-telemetry-ai)**: ⏱️ Real-time stock telemetry — Kafka ingestion, Redis caching, Dockerized microservices with Grafana dashboards.
 
 ### ⚙️ MLOps & DevOps Infrastructure
 *   **[DEVOPS-APDD](https://github.com/Suryanshsaraf/DEVOPS-APDD)**: 🐳 Production-grade ML system featuring a Heart Disease Prediction API with a complete Docker and GitHub Actions CI/CD pipeline.
