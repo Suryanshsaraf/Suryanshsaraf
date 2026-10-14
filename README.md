@@ -1,7 +1,7 @@
 # Hey, I'm Suryansh Saraf 👋🏻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=AI+%26+Data+Science+Systems+Engineer;Autonomous+Agent+Architect+(MCP);Sub-2ms+FinTech+Risk+Engine+Builder;Event-Driven+Streaming+%26+Telemetry;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Platform+Engineering+Intern+%40+Celestir;AI+%26+Data+Science+Systems+Engineer;Autonomous+Agent+Architect+(MCP);Sub-2ms+FinTech+Risk+Engine+Builder;Event-Driven+Streaming+%26+Telemetry" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,10 +26,11 @@
 
 ## ⚡ About Me
 
-I design and build **intelligent, high-throughput, low-latency systems** that operate under strict real-world constraints. Currently completing my **B.Tech in Artificial Intelligence & Data Science** at **NMIMS University, Navi Mumbai** (STME), my focus is on engineering production-ready ML inference gateways, autonomous agentic loops, and decoupled streaming architectures—not just prototype notebooks.
+I design and build **intelligent, high-throughput, low-latency systems** that operate under strict real-world constraints. Currently working as a **Platform Engineering Intern (AI Systems)** at **Celestir** (Washington, D.C. | Remote), my work centers on model calibration, uncertainty verification, and data infrastructure for regulated AI systems. I am completing my **B.Tech in Artificial Intelligence & Data Science** at **NMIMS University, Navi Mumbai** (STME).
 
-* 🔭 **Active Engineering Focus:** Autonomous payment workflows via Model Context Protocol (MCP), sub-2ms payment risk engines, Sybil graph sentinels, and event-driven stock market telemetry.
-* 🧠 **Core Competencies:** Real-Time ML Inference (<2ms SLAs) · Autonomous Agents (MCP & Tool Calling) · Event-Driven Microservices · Time Series & Quantitative Systems · Graph Anomaly Detection · Computer Vision.
+* 💼 **Current Role:** Platform Engineering Intern (AI Systems) @ **Celestir** — Engineering calibration verification, CV pre-filters, and AWS-native ingestion pipelines for regulated AI environments (NIST AI RMF / FDA SaMD).
+* 🔭 **Active Engineering Focus:** Autonomous payment workflows via Model Context Protocol (MCP), sub-2ms payment risk engines, Sybil graph sentinels, and event-driven stock telemetry.
+* 🧠 **Core Competencies:** Real-Time ML Inference (<2ms SLAs) · Autonomous Agents (MCP & Tool Calling) · Model Calibration (ECE, Brier Score) · Event-Driven Microservices · Time Series & Quantitative Systems · Computer Vision.
 * 🏫 **Research Background:** Former Computer Vision Research Intern at **VJTI Mumbai** (Engineered YOLOv8 & OpenCV pipelines for High Security Registration Plate / ANPR recognition).
 * ⚡ **Leadership & Community:** Former Co-Head of **Infinix AI&ML Club**, NMIMS (organized hands-on workshops and industry tech talks featuring speakers from IBM, BrowserStack, Xenvolt.AI) | Ex-Microsoft Learn Student Ambassador.
 * 🎯 **Engineering Philosophy:** *"If it can't handle live network latency, high-concurrency throughput, and messy edge cases in production, it's just a demo."*
@@ -37,10 +38,27 @@ I design and build **intelligent, high-throughput, low-latency systems** that op
 
 ---
 
+<!-- SECTION: WORK EXPERIENCE -->
+## 💼 Experience & Research
+
+### 🏛️ Platform Engineering Intern (AI Systems) — **Celestir**
+*October 2026 – Present | Washington, D.C. (Remote)*
+* **Regulated AI Calibration & Verification:** Engineering evaluation harnesses computing Precision, Recall, False Positive Rate (FPR), False Negative Rate (FNR), and Expected Calibration Error (ECE) for high-stakes decision matching under NIST AI RMF frameworks.
+* **Document Ingestion & CV Quality Gates:** Developing automated ingestion pipelines with OpenCV computer vision pre-filters (Laplacian blur variance, exposure checks) to eliminate unreadable documents before downstream extraction.
+* **Backend & Observability Infrastructure:** Building resilient ingestion queues with AWS SQS, CloudWatch anomaly alerting, and optimized PostgreSQL bulk upsert pipelines with JSONB/GIN indexing.
+
+### 🔬 Computer Vision Research Intern — **Veermata Jijabai Technological Institute (VJTI)**
+*May 2025 – June 2025 | Mumbai, India*
+* **High Security Registration Plate (HSRP) Recognition:** Engineered real-time vehicle license plate detection and optical character recognition (OCR) models using YOLOv8, Roboflow, and OpenCV from high-speed traffic video feeds.
+* **Model Optimization:** Fine-tuned lightweight bounding box regressors and OCR heuristics for low-latency edge deployment.
+
+---
+
 <!-- SECTION: CURRENTLY WORKING ON -->
 ## 🔭 Active Focus & Explorations
 
 ```text
+🏛️  Celestir AI Platform: Calibration harnesses, document quality gates & AWS observability
 💳  PayPal Agentic Flow: Autonomous payment orchestration & MCP approval agent   → paypal-agentic-flow
 🛡️  RazorShield AI: Sub-2ms ONNX Risk Gateway + Visa CE 3.0 Dossier Compiler      → razorpaytrack02
 📈  ATSA Playground: Interactive Box-Jenkins time series & AutoML platform       → atsa-playground
@@ -172,6 +190,7 @@ A high-throughput, multi-modal risk mitigation system engineered for synchronous
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_(SQS%20%2F%20CloudWatch)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
       <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -185,6 +204,7 @@ A high-throughput, multi-modal risk mitigation system engineered for synchronous
 <!-- SECTION: HONORS & CERTIFICATIONS -->
 ## 🏆 Honors, Certifications & Leadership
 
+* 🏛️ **Platform Engineering Intern (AI Systems):** Celestir (Washington, D.C. | Remote) — Calibration & Confidence for Regulated AI
 * ☁️ **AWS Academy Graduate:** Cloud Architecting Training Certification (March 2026)
 * 🌐 **Google Cloud Career Launchpad:** Cloud Infrastructure & Data Analytics Badges (April 2026)
 * 🛡️ **Razorpay AI Buildathon 2026:** Track 02 (AI Risk Manager) — Architect of RazorShield AI
